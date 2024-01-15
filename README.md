@@ -1,10 +1,10 @@
 # pi-hole-button
-I built a GRB (Giant Red Button) to disable our pi-hole! You can checkout my youtube video here:
+I built a GRB (Giant Red Button) to disable our pi-hole! You can check out my YouTube video here:
 
-[<img src="https://img.youtube.com/vi/h51sABc1pn0/hqdefault.jpg" width="600" height="300"
+[<img src="https://img.youtube.com/vi/h51sABc1pn0/hqdefault.jpg" width="560" height="315"
 />](https://www.youtube.com/embed/h51sABc1pn0)
 
-This repo has the source code and STL files for what I built. Here are the other parts that I purchsed:
+This repo has the source code and STL files for what I built. Here are the other parts that I purchased:
 
 * [Adafruit QT Py S3 with 2MB PSRAM WiFi Dev Board with STEMMA QT](https://www.adafruit.com/product/5700)
 * [Giant Button](https://www.amazon.com/gp/product/B00XRC9URW)
