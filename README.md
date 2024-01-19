@@ -6,7 +6,7 @@ The button design with the Raspberry Pi Pico W in the base was inspire by Dmytro
 
 As I didn't like to purchased a new micro controller or a of the shelf button I designed, inspired by BOB, my own button case.
 
-I also change a bit the code from Christopher Moravec to suite my needs as I have only one led and did like the idea to have some things hardcoded so I moved them to the settings.py
+I also change a bit the code from Christopher Moravec to suite my needs as I have only the ws2812 leds and didn't like the idea to have some things hardcoded so I moved them to the settings.py
 
 Hardware you need:
 * [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/)
