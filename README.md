@@ -20,7 +20,7 @@ To get this working:
 1. More details about the assembly you see in the [images folder](/images/)
 2. Flash your Raspberry Pi PIco W with CircuitPython [download](https://circuitpython.org/board/raspberry_pi_pico_w/)
 3. Copy `main.py`, `setings.py`, and `settings.toml` onto your Raspberry Pi Pico W
-4. Install CircuitPython packages. I use [circup](https://github.com/adafruit/circup) for this: `circup install --auto`
+4. Install CircuitPython packages. I use [circup](https://github.com/adafruit/circup) for this: `circup --path /run/media/nils/PIHOLEBUTTO install --auto-file main.py`
 5. Update `settings.py` with your pi-hole's API key, pi-hols hostname/IP and Pins on your Raspberry Pi Pico W.
 6. Update `settings.toml` with your wifi information.
 
